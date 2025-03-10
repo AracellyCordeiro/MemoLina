@@ -1,6 +1,6 @@
-# Jogo de Memória
+# MemoEduc
 
-Um jogo de memória interativo, onde você deve encontrar pares de cartas iguais. O jogo possui diferentes categorias e níveis de dificuldade, além de um contador de jogadas e um timer. 
+Um jogo de memória interativo, onde você deve encontrar pares de cartas iguais. O jogo possui diferentes categorias e níveis de dificuldade, além de um contador de jogadas e um timer.
 
 ## Funcionalidades
 
@@ -28,4 +28,5 @@ Um jogo de memória interativo, onde você deve encontrar pares de cartas iguais
    ```bash
    git clone https://github.com/AracellyCordeiro/MemoEduc.git
    cd nome-do-repositorio
-   
+
+   ```
