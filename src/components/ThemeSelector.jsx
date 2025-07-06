@@ -1,7 +1,7 @@
 import React from "react";
 
 const ThemeSelector = ({ onSelectTheme }) => {
-  const themes = ["animals", "funDay", "professions"];
+  const themes = ["Desenho", "Film1", "Film2"];
 
   return (
     <div>

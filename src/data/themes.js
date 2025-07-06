@@ -11,7 +11,7 @@ export const themes = {
     { id: 9,  img: "/images/desenho/napraia.jpg" },
     { id: 10, img: "/images/desenho/picknick.jpg" },
     { id: 11, img: "/images/desenho/pijamadevaquinha.jpg" },
-    { id: 12, img: "/images/desenho/vongogh.jpg" },
+    { id: 12, img: "/images/desenho/ulaviolao.jpg" },
   ],
 
   Film1: [
@@ -19,7 +19,7 @@ export const themes = {
     { id: 2,  img: "/images/Film1/paz.png" },
     { id: 3,  img: "/images/Film1/poster.jpg" },
     { id: 4,  img: "/images/Film1/radiola.jpg" },
-    { id: 5,  img: "/images/Film1/surf.jpg" },
+    { id: 5,  img: "/images/Film1/danca.jpg" },
     { id: 6,  img: "/images/Film1/Aladin.jpg" },
     { id: 7,  img: "/images/Film1/beijonariz.jpg" },
     { id: 8,  img: "/images/Film1/coco.jpg" },
